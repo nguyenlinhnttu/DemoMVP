@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoMVP</string>
+    <string name="btnGetData">GetData</string>
+</resources>
